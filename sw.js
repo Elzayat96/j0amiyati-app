@@ -1,4 +1,4 @@
-const CACHE = 'jamiyati-v1';
+const CACHE = 'jamiyati-v3';
 const ASSETS = [
   './', './index.html', './style.css', './app.js', './manifest.json'
 ];
